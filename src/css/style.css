@@ -1,0 +1,41 @@
+/*'bodii' geral*/
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cyan;text-align: center;
+}
+
+/*p geral*/
+p{
+    color: white;font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*Classe ( . )*/
+.parag-verde{
+    color: chartreuse;
+}
+
+/*div geralzon*/
+div{
+    padding-top: 20%;
+}
+
+/*Feito a mudança na palavra especificada*/
+span{
+    color: blueviolet;
+}
+
+/*id*/
+#hi{
+    color: cadetblue;
+}
+
+/*Especificamente p que está na section*/
+section p{
+    color: gold;
+}
+h1{
+    color: cyan;
+}
